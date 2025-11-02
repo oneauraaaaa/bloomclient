@@ -1,0 +1,8 @@
+C:\Users\selim\source\repos\BloomPrivateInjector\bin\Debug\BloomPrivateInjector.exe.config
+C:\Users\selim\source\repos\BloomPrivateInjector\bin\Debug\BloomPrivateInjector.exe
+C:\Users\selim\source\repos\BloomPrivateInjector\bin\Debug\BloomPrivateInjector.pdb
+C:\Users\selim\source\repos\BloomPrivateInjector\obj\Debug\BloomPrivateInjector.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\BloomPrivateInjector\obj\Debug\BloomPrivateInjector.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\BloomPrivateInjector\obj\Debug\BloomPrivateInjector.exe
+C:\Users\selim\source\repos\BloomPrivateInjector\obj\Debug\BloomPrivateInjector.pdb
+C:\Users\selim\source\repos\BloomPrivateInjector\obj\Debug\BloomPrivateInjector.exe.config
