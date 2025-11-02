@@ -17,10 +17,11 @@ Press `Insert` to open the menu once it is injected.
 ### How to inject
 Rename the builded DLL to bloomclient.dll and put in the same directory as the injector exe to inject.
 
-### Authors
+## Authors
+
 oneaura (me): Added blockhit and customizable esp colors.
 
-## Main authors
+### Main authors
 [REDACTED]&nbsp;&nbsp;&nbsp;: Developed the modules and the gui
 
 Lefrauder&nbsp;&nbsp;&nbsp;: Remade reach module
