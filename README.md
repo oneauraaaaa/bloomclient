@@ -15,7 +15,7 @@ Press `Insert` to open the menu once it is injected.
 - Might give bunch of errors whenever you click the combat tab.
 
 ### How to inject
-I'd recommend using a trust worthy dll injector such as Process Hacker.
+Rename the builded DLL to bloomclient.dll and put in the same directory as the injector exe to inject.
 
 oneaura (me): Added blockhit and customizable esp colors.
 
